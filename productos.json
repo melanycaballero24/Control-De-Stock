@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alfajor",
+        "precio": 1000.0,
+        "stock": 48,
+        "categoria": "Golosinas",
+        "fecha_vencimiento": "11/08/2026"
+    },
+    {
+        "id": 2,
+        "nombre": "Coca Cola",
+        "precio": 2000.0,
+        "stock": 39,
+        "categoria": "Bebidas",
+        "fecha_vencimiento": "30/12/2026"
+    },
+    {
+        "id": 3,
+        "nombre": "Agua Mineral",
+        "precio": 1200.0,
+        "stock": 27,
+        "categoria": "Bebidas",
+        "fecha_vencimiento": "02/01/2027"
+    },
+    {
+        "id": 4,
+        "nombre": "Sprite",
+        "precio": 2000.0,
+        "stock": 30,
+        "categoria": "Bebidas",
+        "fecha_vencimiento": "25/11/2026"
+    },
+    {
+        "id": 5,
+        "nombre": "Papas Fritas",
+        "precio": 1500.0,
+        "stock": 22,
+        "categoria": "Snack",
+        "fecha_vencimiento": "22/09/2026"
+    },
+    {
+        "id": 6,
+        "nombre": "Yogurt",
+        "precio": 1900.0,
+        "stock": 9,
+        "categoria": "Lácteos",
+        "fecha_vencimiento": "01/07/2026"
+    },
+    {
+        "id": 7,
+        "nombre": "Leche",
+        "precio": 2200.0,
+        "stock": 9,
+        "categoria": "Lácteos",
+        "fecha_vencimiento": "28/06/2026"
+    },
+    {
+        "id": 8,
+        "nombre": "Jabon Dove",
+        "precio": 1800.0,
+        "stock": 28,
+        "categoria": "Higiene Personal",
+        "fecha_vencimiento": "27/08/2027"
+    },
+    {
+        "id": 9,
+        "nombre": "Fideos",
+        "precio": 2500.0,
+        "stock": 7,
+        "categoria": "Despensa",
+        "fecha_vencimiento": "11/06/2026"
+    },
+    {
+        "id": 10,
+        "nombre": "Galletitas Surtidas",
+        "precio": 3000.0,
+        "stock": 9,
+        "categoria": "Despensa",
+        "fecha_vencimiento": "05/07/2026"
+    },
+    {
+        "id": 11,
+        "nombre": "Shampoo Elvive",
+        "precio": 7000.0,
+        "stock": 21,
+        "categoria": "Higiene Personal",
+        "fecha_vencimiento": "06/05/2027"
+    },
+    {
+        "id": 12,
+        "nombre": "Turron",
+        "precio": 1200.0,
+        "stock": 29,
+        "categoria": "Golosinas",
+        "fecha_vencimiento": "04/07/2026"
+    },
+    {
+        "id": 13,
+        "nombre": "Harina",
+        "precio": 1500.0,
+        "stock": 24,
+        "categoria": "Despensa",
+        "fecha_vencimiento": "11/07/2026"
+    },
+    {
+        "id": 14,
+        "nombre": "Aceite",
+        "precio": 3500.0,
+        "stock": 30,
+        "categoria": "Despensa",
+        "fecha_vencimiento": "12/06/2027"
+    }
+]
